@@ -1,3 +1,3 @@
-# Official Release notes for [React Form Manager](https://www.corelabui.com/react-form-manager)
+# Official Release notes for [FormFusion library](https://www.corelabui.com/formfusion)
 
-See all releases [here](https://github.com/corelabui/rfm/blob/main/CHANGELOG.md)
+See all releases [here](https://github.com/corelabui/formfusion/blob/main/CHANGELOG.md)
